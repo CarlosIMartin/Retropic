@@ -1,7 +1,7 @@
 module.exports = {
 
     database: {
-        URI: 'mongodb://localhost/retropic'
+        URI: 'mongodb://127.0.0.1:27017/retropic'
     }
 
 }
